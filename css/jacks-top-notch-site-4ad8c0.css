@@ -60,13 +60,13 @@
 }
 
 .link {
-  color: rgb(73, 132, 191);
+  color: #528FEB;
   text-decoration: none;
   transition: all .1s ease-in-out;
 }
 
 .link.icon {
-  color: #000;
+  color: #fff;
   opacity: .32;
   text-decoration: none;
   transition: all .1s ease-in-out;
@@ -78,7 +78,7 @@
 }
 
 .link:hover {
-  color: #208fff;
+  color: #6AA2F6;
 }
 
 ._64 {
